@@ -5,6 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   
+  //第一次修改
   	<properties>
 		<!-- spring版本号 -->
 		<spring.version>4.3.8.RELEASE</spring.version>
